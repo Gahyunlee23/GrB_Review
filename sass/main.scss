@@ -2,6 +2,8 @@
 @import '_var';
 @import 'modules/navbar';
 
+// import the user stuff
+@import 'modules/users';
 
 body { 
     background-color: $body-bg;
